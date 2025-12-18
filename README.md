@@ -1,4 +1,5 @@
 # My Service Project(DBB)
+서비스 기획 포트폴리오  
 
 # DAILY BAKERY BOX
 취향 데이터 기반 신선 베이커리 정기구독 서비스
